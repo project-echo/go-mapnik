@@ -1,4 +1,4 @@
-module github.com/animesh2049/go-mapnik
+module github.com/project-echo/go-mapnik
 
 go 1.16
 

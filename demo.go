@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/animesh2049/go-mapnik/mapnik"
-	"github.com/animesh2049/go-mapnik/maptiles"
+	"github.com/project-echo/go-mapnik/mapnik"
+	"github.com/project-echo/go-mapnik/maptiles"
 )
 
 // Render a simple map of europe to a PNG file
